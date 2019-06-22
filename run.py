@@ -50,7 +50,7 @@ def create_msg():
     Base: {base_currency}
     KRW: {response["rates"]["KRW"]}
     
-    망망이~ 😇
+    😇
     """))
 
 
